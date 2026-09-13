@@ -48,9 +48,9 @@ Changes are tracked through this repository's commit history.
 
 ## License
 
-Released as open source and free to use for research, education, model training, and competition purposes. Because the dataset is fully original and hand-written, it contains no third-party copyrighted text and no personal data belonging to real individuals.
+This dataset is released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license — see [`LICENSE`](./LICENSE). You are free to share and adapt the data for any purpose, including commercially, as long as you give appropriate attribution.
 
-*(Pick and state the exact license here, e.g. CC-BY-4.0, CC0, or MIT, and add a `LICENSE` file to the repo.)*
+It is free to use for research, education, model training, and competition purposes. Because the dataset is fully original and hand-written, it contains no third-party copyrighted text and no personal data belonging to real individuals.
 
 ## Known Limitations
 
